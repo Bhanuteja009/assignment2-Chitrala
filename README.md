@@ -19,3 +19,12 @@ The **Museum of Illusions** in Kansas City brings you a space suitable both for 
 2. After comming out from airport take a Cookingham Drive road till you reach a juntion at NW 120th street.
 3. At that take right and be on NW private view road till Northmoor junction.
 4. At Northmoor junction take right and you will reach the Museum.
+
+
+## Other places to visit around the musuem
+- KC STREETCAR
+    - Soapology
+    - CHURCH OF OUR LADY OF GUADALUPE
+- BRUCE R. WATKINS CULTURAL HERITAGE CENTER
+- CHILDREN'S PEACE PAVILION
+- CROWN CENTER

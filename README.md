@@ -12,3 +12,10 @@ The **Museum of Illusions** in Kansas City brings you a space suitable both for 
 >>
 >>Apart from these it has many illusion rooms like
 >>>**Infinity room**, **Anti gravity room**, **Ames room**.<br>
+
+---
+## Directions from to Kansas Airport to Museum of illusions
+1. The museum is 21 miles from the airport.
+2. After comming out from airport take a Cookingham Drive road till you reach a juntion at NW 120th street.
+3. At that take right and be on NW private view road till Northmoor junction.
+4. At Northmoor junction take right and you will reach the Museum.

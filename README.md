@@ -49,3 +49,25 @@ To add a table, use three or more hyphens (---) to create each column’s header
 >What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though - *J.D. Salinger*
 
 >A writer is someone for whom writing is more difficult than it is for other people. - *Thomas Mann*
+
+---
+## Code Fencing usage overview using markdown
+>How to check if a string "StartsWith" another string?
+
+Please have a look here <https://stackoverflow.com/questions/646628/how-to-check-if-a-string-startswith-another-string>
+
+```
+<?php 
+  
+function startsWith($string, $startString) { 
+  $len = strlen($startString); 
+  return (substr($string, 0, $len) === $startString); 
+} 
+
+// usage
+echo startsWith("cat", "c"); // true
+echo startsWith("dog", "x"); // false
+
+?> 
+```
+Please have a look at the above code snippet <https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/>

@@ -30,3 +30,16 @@ The **Museum of Illusions** in Kansas City brings you a space suitable both for 
 - CROWN CENTER
 
 [Click here to know about Bhanuteja](AboutMe.md)
+
+
+---
+## Tables usage overview using markdown
+To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column. For compatibility, you should also add a pipe on either end of the row.
+
+| City Name   | Imp Location      | Time to spend   |
+| :---        |    :----:         |          ---:   |
+| Agra        | Taj Mahal         | 2 hours         |
+| Mumbai      | Gateway of India  | 2:30 hours      |
+| Mysore      | Mysore palace     | 4 hours         |
+| Coorg       | Dubare spot       | 4 hours         |
+| Goa         | Candolim beach    | 6 hours         |

@@ -43,3 +43,9 @@ To add a table, use three or more hyphens (---) to create each column’s header
 | Mysore      | Mysore palace     | 4 hours         |
 | Coorg       | Dubare spot       | 4 hours         |
 | Goa         | Candolim beach    | 6 hours         |
+
+---
+## Blockquotes usage overview using markdown
+>What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though - *J.D. Salinger*
+
+>A writer is someone for whom writing is more difficult than it is for other people. - *Thomas Mann*
